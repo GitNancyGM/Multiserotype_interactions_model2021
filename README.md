@@ -15,15 +15,16 @@ Mathematical model for Dengue mulsisertype interactions is implemented using pyt
 
 This repository contains four files
 1. solutions for low reproduction numbers
-2. scenarios for all solutions for low reproduction numbers
-3. solutions for high reproduction numbers
-4. scenarios for all solutions for high reproduction numbers
+2. scenarios for all solutions 
+
 
 
 ## Comments
 
 Files will be edited to improve code description and parameter configurations
 
+Description and updates will be posted in this repository
+Correspondence: nancy_gm@ciencias.unam.mx
 
 
 
