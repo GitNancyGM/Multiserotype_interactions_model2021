@@ -17,7 +17,8 @@ This repository contains four files
 1. solutions for low reproduction numbers
 2. scenarios for all solutions 
 
-
+## Preprint available
+https://www.researchgate.net/publication/349078329_A_mathematical_model_for_the_population_dynamics_of_Dengue_multiserotype_interactions
 
 ## Comments
 
